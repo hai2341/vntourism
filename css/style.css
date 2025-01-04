@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
     --primary: #000000;
-    --light: #F1F8FF;
+    --light: #000000;
     --dark: #ffffff;
 	--extracolor: #C4FFb3;
 }
@@ -88,7 +88,7 @@
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: rgb(255, 255, 255);
+    color: rgb(98, 255, 108);
 }
 
 @media (max-width: 991.98px) {
@@ -422,7 +422,7 @@
 
 .footer {
     position: relative;
-    margin-top: -110px;
+    margin-top: -40px;
     padding-top: 180px;
 }
 
